@@ -14,7 +14,7 @@ We believe the future of research is:
 - **Incentivized**
 - **Global**
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 2LXeHJzcccVe3MEUASZRq5fMBAFh95RFvBG8bUWkpump
 ---
 
 ## 🌐 Links
